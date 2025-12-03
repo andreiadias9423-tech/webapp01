@@ -8,4 +8,10 @@ Ir ao site www.asp.net e descarregar os runtimes para criar a aplicação
 Instalar o runtime na máquina física - done
 
 ## Passo 3: 
-Clonar o repositório remoto na pasta C: awsbraga
+Clonar o repositório remoto na pasta C: awsbraga - Done
+
+## Passo 4
+Criar o webapp blazor "Calendário" - Done
+
+## Passo 5
+Criar o Dockerfile para a app "calendário"
